@@ -57,7 +57,7 @@ function removeOverlay() {
 }
 
 function handleKeyPress() {
-  console.log("hoo");
+  console.log("Escape");
   removeOverlay();
 }
 
