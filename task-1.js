@@ -67,36 +67,3 @@ function handleOverlayClick(e) {
   }
   removeOverlay();
 }
-
-//============================================
-// const galleryListItem = document.createElement('li');
-// const galleryListLink = document.createElement('a');
-// const galleryListImage = document.createElement('img');
-// const galleryListSpan = document.createElement('span');
-// const galleryListIcon = document.createElement('i');
-// galleryListItem.appendChild(galleryListLink)
-// galleryListSpan.appendChild(galleryListIcon)
-// galleryListLink.append(galleryListImage, galleryListSpan)
-// console.log(galleryListItem);
-//=============================================
-// galleryListItem.setAttribute('src', preview)
-// galleryListItem.setAttribute(name, value)
-// galleryListItem.setAttribute(name, value)
-//console.log(element);
-
-//result.push(element);
-//console.log(preview);
-// for (let i = 1; i <= amount.length; i += 1) {
-//   const element = document.createElement('li');
-//   console.log(element);
-
-//   result.push(element);
-// }
-//console.log(result);
-// const fragment = document.createDocumentFragment();
-// result = result.map(el => {
-//   fragment.append(el);
-//   return fragment;
-// })
-
-//galleryList.appendChild(fragment)
